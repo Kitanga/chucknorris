@@ -1,2 +1,0 @@
-# chucknorris
-Created with CodeSandbox
